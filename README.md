@@ -14,4 +14,4 @@ Run the following command:
 python robot.py
 ```
 ## Documentation
-The documentation can be found here [:clipboard:](https://github.com/651juan/AssignmentRobot/blob/master/Welbo.pdf)
+The documentation can be found [here :clipboard:](https://github.com/651juan/AssignmentRobot/blob/master/Welbo.pdf)
