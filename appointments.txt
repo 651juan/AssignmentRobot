@@ -1,0 +1,10 @@
+nrAppointments 3
+appointmentId 0
+visitorName Tiago Santos
+employeeName Roel Noort
+appointmentId 1
+visitorName Stanislav Minev
+employeeName Roeland van Oers
+appointmentId 2
+visitorName Stanislav Minevs
+employeeName Roeland van Oers
